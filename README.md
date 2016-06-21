@@ -1,2 +1,2 @@
 # hiatus
-Let's try this again.
+Jim's hiatus projects.
